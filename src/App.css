@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+.choose-car{
+    position: absolute;
+    margin-left: -600px;
+}
+.dropzone{
+    width: 500px;
+    margin-left: 600px;
+    position: relative;
+}
+.btn-primary{
+    margin-left: -580px;
+    margin-top: 60px;
+    position: absolute;
+}
+#error-message{
+    color: red;
+    display: none;
+    margin-top: -80px;
+    position: absolute;
+}
